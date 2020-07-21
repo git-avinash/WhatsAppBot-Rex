@@ -23,7 +23,7 @@ EMAIL_ADDRESS = os.environ.get("MY_EMAIL")
 EMAIL_PASS = os.environ.get("MY_PASS")
 MAIL_TO = "mail.avinashsah@gmail.com"
 
-LISTEN_TO = ["TestHub", "+91 86008 06187"]
+LISTEN_TO = ["TestHub", "+91 86008 12345"]
 PREFIX = "!"
 
 
