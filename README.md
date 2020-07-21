@@ -10,7 +10,7 @@ It uses Selenium WebDriver to run a real instance of Whatsapp Web to avoid getti
 * Download this module
 
 ## Examples
-**Example 1: Setting up Rex to respond to group messge !ping**
+**Example 1: Setting up Rex to respond to group messge**
 ```py
 from botrex import BotRex, RexActions
 import os
